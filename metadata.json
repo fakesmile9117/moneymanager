@@ -1,0 +1,6 @@
+{
+  "name": "Money Manager",
+  "description": "A sleek, high-performance personal finance manager that tracks cash flows, visualizes expenses in Indian Rupees (₹), and automatically syncs data with a Google Sheet.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
